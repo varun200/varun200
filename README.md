@@ -66,24 +66,7 @@ Chi-square and Mann-Kendall testing across 10 segments, a composite lead score, 
 <h2 align="center">🛠️ Toolkit</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,gcp,aws,supabase,git,github,vscode,latex&perline=9&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-BigQuery%20ML%20%C2%B7%20Data%20Insights%20%C2%B7%20Data%20Warehouse-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Essentials-0078D4?style=flat-square"/>
+  <img src="./toolkit.svg" alt="Toolkit and certifications" width="100%"/>
 </p>
 
 <br/>
