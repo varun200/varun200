@@ -13,12 +13,12 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/varun200/ab-testing-framework"><img src="./card-ab.svg" width="49%" alt="A/B Testing Platform"/></a>
-  <a href="https://github.com/varun200/Forecasting-App-Streamlit"><img src="./card-forecast.svg" width="49%" alt="Forecasting Automation App"/></a>
+  <a href="https://github.com/varun200/ab-testing-framework"><img src="./card-ab.svg?v=2" width="49%" alt="A/B Testing Platform"/></a>
+  <a href="https://github.com/varun200/Forecasting-App-Streamlit"><img src="./card-forecast.svg?v=2" width="49%" alt="Forecasting Automation App"/></a>
 </p>
 <p align="center">
-  <img src="./card-mmm.svg" width="49%" alt="Marketing Mix Modeling App"/>
-  <img src="./card-uba.svg" width="49%" alt="User Behavior Analytics"/>
+  <img src="./card-mmm.svg?v=2" width="49%" alt="Marketing Mix Modeling App"/>
+  <img src="./card-uba.svg?v=2" width="49%" alt="User Behavior Analytics"/>
 </p>
 
 <br/>
