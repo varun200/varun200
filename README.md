@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <img src="./card-mmm.svg?v=2" width="49%" alt="Marketing Mix Modeling App"/>
-  <img src="./card-uba.svg?v=2" width="49%" alt="User Behavior Analytics"/>
+  <img src="./project-uba.svg?v=2" width="49%" alt="User Behavior Analytics"/>
 </p>
 
 <br/>
