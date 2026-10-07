@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/varun-ramadugu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:varun29112000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%C2%B7%20BI%20%C2%B7%20Data%20Science-3FB950?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/varun-ramadugu"><img src="./badge-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:varun29112000@gmail.com"><img src="./badge-email.svg" alt="Email"/></a>
+  <img src="./badge-open.svg" alt="Open to work"/>
 </p>
 
 <br/>
